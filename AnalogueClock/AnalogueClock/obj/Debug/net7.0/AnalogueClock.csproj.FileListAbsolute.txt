@@ -1,0 +1,15 @@
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\bin\Debug\net7.0\AnalogueClock.exe
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\bin\Debug\net7.0\AnalogueClock.deps.json
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\bin\Debug\net7.0\AnalogueClock.runtimeconfig.json
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\bin\Debug\net7.0\AnalogueClock.dll
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\bin\Debug\net7.0\AnalogueClock.pdb
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.csproj.AssemblyReference.cache
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.AssemblyInfoInputs.cache
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.AssemblyInfo.cs
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.dll
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\refint\AnalogueClock.dll
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.pdb
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\AnalogueClock.genruntimeconfig.cache
+C:\Users\Stella\source\repos\AnalogueClock\AnalogueClock\obj\Debug\net7.0\ref\AnalogueClock.dll
